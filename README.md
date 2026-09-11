@@ -1,1 +1,3 @@
 # AGImode
+
+emulate AI model
